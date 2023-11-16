@@ -1,0 +1,27 @@
+Cloud_pct
+Feels_like
+Humidity
+Max_temp
+Min_temp
+Sunrise
+Sunset
+Temp
+Wind_degrees
+Wind_speed
+
+
+cloud_pct.innerHTML = response.cloud_pct
+tem.innerHTML = response.temp
+feels_lik.innerHTML = response.feels_like
+humidit.innerHTML = response.humidity
+min_tem.innerHTML = response.min_temp
+max_tem.innerHTML = response.max_temp
+wind_spee.innerHTML = response.wind_speed 
+wind_degree.innerHTML = response.wind_degrees 
+sunris.innerHTML = response.sunrise 
+sunse.innerHTML = response.sunset
+
+This weather app is designed to provide up-to-date information about the weather conditions in your location and around the world. The app is easy to use and provides accurate weather forecasts, radar maps, and alerts for severe weather conditions.
+When you open the app, you'll see the current weather conditions for your location, including temperature, wind speed and direction, humidity, and precipitation.
+You can customize the app to display weather information for multiple locations, so you can keep track of the weather in places where you travel or have family and friends. The app also provides information about the sunrise and sunset time
+Overall, this weather app is an essential tool for anyone who wants to stay informed about the weather. With accurate forecasts, radar maps, and alerts, you'll always be prepared for whatever weather comes your way.
